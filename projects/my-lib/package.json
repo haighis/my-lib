@@ -1,0 +1,24 @@
+{
+  "name": "my-lib",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^9.1.13",
+    "@angular/core": "^9.1.13",
+    "@angular/forms": "^13.2.6",
+    "@angular/platform-browser": "^13.2.6",
+    "ag-grid-angular": "^27.0.0",
+    "ag-grid-community": "^27.0.1",
+    "lodash.concat": "^4.5.0"
+  },
+  "dependencies": {
+    "tslib": "^1.10.0"
+  },
+  "devDependencies": {
+    "lodash.concat": "^4.5.0",
+    "@angular/core": "^9.1.13",
+    "@angular/forms": "^13.2.6",
+    "@angular/platform-browser": "^13.2.6",
+    "ag-grid-angular": "^27.0.0",
+    "ag-grid-community": "^27.0.1"
+  }
+}
